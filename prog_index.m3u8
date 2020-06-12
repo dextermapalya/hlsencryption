@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:17
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-KEY:METHOD=AES-128,URI="https://raw.githubusercontent.com/dextermapalya/hlsencryption/master/enc.key",IV=0x1eb91b2f21b2bfbee2428c34a9509cc4
+#EXTINF:16.666667,
+fileSequence0.ts
+#EXTINF:16.666667,
+fileSequence1.ts
+#EXTINF:11.466667,
+fileSequence2.ts
+#EXT-X-ENDLIST
